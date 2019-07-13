@@ -6,4 +6,4 @@ function c_ocl(){
 
 
 }
-var ncanvas = new c_ocl();
+var ocl = new c_ocl();
