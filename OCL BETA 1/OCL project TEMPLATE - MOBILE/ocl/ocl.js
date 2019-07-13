@@ -1,4 +1,4 @@
-function canvasnxt(){
+function c_ocl(){
     this.audio = new audio()
     this.draw = new draw()
     this.physics = new physics()
@@ -6,4 +6,4 @@ function canvasnxt(){
 
 
 }
-var ncanvas = new canvasnxt();
+var ocl = new c_ocl();
